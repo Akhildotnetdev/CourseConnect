@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="/Default.aspx" title="Home"  description="Home Page">
+    <siteMapNode url="/CourseLists.aspx" title="CourseList"  description="Displays list of courses">
+    </siteMapNode>
+    <siteMapNode url="/adminActios.aspx" title="AdminActions"  description="Admin Actions">
+      <siteMapNode url="/CreateUser.aspx" title="Create new user"  description="Creating user" />
+      <siteMapNode url="/manageData_Admin.aspx" title="Manage Database"  description="Edit Courses Details" />
+    </siteMapNode>
+    <siteMapNode url="/professorAdmin.aspx" title="Professor Actions"  description="Edit course" />
+    <siteMapNode url="/UserProfile.aspx" title="UserProfile"  description="View update userprofile" />
+
+    <siteMapNode url="/PostCommnets.aspx" title="Post Commnets"  description="Post Comments Directly"/>
+
+
+    <siteMapNode url="/Contact.aspx" title="Contact"  description="Report Issues"/>
+
+  </siteMapNode>
+
+
+
+
+</siteMap>
