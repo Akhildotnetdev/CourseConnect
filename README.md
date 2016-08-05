@@ -1,4 +1,4 @@
-# NexGenDevelopers
+# CourseConnect
 
 Application Summary:
 As a student I always faced issue in planning my semester, the current process is to identify the course know the professor try to contact him, and now you need to wait for his available time to get details about the course.
